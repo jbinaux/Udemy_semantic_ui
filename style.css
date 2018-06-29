@@ -45,3 +45,11 @@ button#white:hover
 {
   background: lightgrey !important;
 }
+
+.foot-image
+{
+  background-image: url(images/42c7fc6c-ada8-41fa-ac3d-df89623ca315.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 60vh;
+}

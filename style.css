@@ -1,0 +1,47 @@
+nav
+{
+  padding: 5px;
+  display: flex;
+  justify-content: space-around;
+  box-shadow: 0px 1px 5px lightgrey;
+}
+
+nav .input .navbar-input
+{
+  width: 40vw;
+  background-color: ghostwhite;
+  border: none;
+}
+
+.menu
+{
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.input .button
+{
+  color: red;
+  background-color: ghostwhite;
+}
+
+.input .button:hover
+{
+  color: white;
+  background-color: red;
+}
+
+#white
+{
+  background: white;
+}
+
+button#white:hover
+{
+  background: ghostwhite;
+}
+
+#sign-in:hover
+{
+  background: lightgrey !important;
+}

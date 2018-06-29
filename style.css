@@ -41,7 +41,7 @@ button#white:hover
   background: ghostwhite;
 }
 
-#sign-in:hover
+button#sign-in:hover
 {
   background: lightgrey !important;
 }
@@ -52,4 +52,19 @@ button#white:hover
   background-position: center;
   background-size: cover;
   height: 60vh;
+}
+
+.foot-text .input
+{
+  width: 100%;
+}
+
+.ui.grid
+{
+  margin: 0;
+}
+
+.foot-text
+{
+  color: white;
 }
